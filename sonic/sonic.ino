@@ -1,6 +1,5 @@
 // reference links
-// https://www.tutorialspoint.com/difference-between-hashdefine-and-const-in-arduino
-// https://howtomechatronics.com/tutorials/arduino/ultrasonic-sensor-hc-sr04/
+// https://projecthub.arduino.cc/Isaac100/getting-started-with-the-hc-sr04-ultrasonic-sensor-7cabe1
 
 // Defining pin numbers
 const int trigPin = 5;
